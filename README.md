@@ -27,7 +27,7 @@ A full-stack luxury fashion e-commerce platform built with **React.js** and **Dj
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/vogue-shop.git
+
 cd vogue-shop
 ```
 
@@ -232,7 +232,7 @@ npm run build
 
 **Your Name**  
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/aljannatulfirdous2007-rgb](https://github.com/aljannatulfirdous2007-rgb)
 - Email: your.email@example.com
 - Portfolio: yourportfolio.com
 
